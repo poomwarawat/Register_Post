@@ -1,0 +1,22 @@
+{
+	"user1":{
+		"username":"keroro",
+		"password":"green"
+	},
+	"user2":{
+		"username":"giroro",
+		"password":"red"
+	},
+	"user3":{
+		"username":"tamama",
+		"password":"blue"
+	},
+	"user4":{
+		"username":"kururu",
+		"password":"yellow"
+	},
+	"user5":{
+		"username":"dororo",
+		"password":"blue"
+	}
+}
